@@ -10,7 +10,7 @@ Contents
 ## File Contents
 	
 	Character_Counter.cpp (program file containing code)
-  explore.txt           (example text file)
+  explore.txt           (example input file)
 
 ## Introduction
 Book practice project from Problem Solving With C++ Chapter 6. Project 9.
